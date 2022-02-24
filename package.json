@@ -1,0 +1,18 @@
+{
+  "name": "@adicitus/morrigan.authentication.password",
+  "version": "1.0.2",
+  "description": "Password authentication provider for the morrigan management system.",
+  "main": "module.js",
+  "scripts": {
+    "test": "mocha --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/js-morrigan.authentication.password-pkg"
+  },
+  "keywords": [
+    "morrigan"
+  ],
+  "author": "Joakim Olsson <joakim.olsson@adicitus.cloud>",
+  "license": "ISC"
+}
